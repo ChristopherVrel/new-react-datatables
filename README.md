@@ -9,6 +9,7 @@ Installation is done using the npm install command:
 ```console
 npm i new-react-datatables
 ```
+> NOTE : Node.js v16.6.1 and higher is required
 
 ## Examples
 Here is a simple example of new-react-datatables being used in an app:
